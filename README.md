@@ -19,3 +19,5 @@ This GitHub is part of [the Travis Tutorial](https://github.com/richelbilderbeek
 ## External links
 
  * [pandoc's documentation how to convert text to EPUB](http://pandoc.org/epub.html)
+ * [tex2ebook](https://github.com/rzoller/tex2ebook): A converter for LaTeX documents to EPUB/Mobipocket with a web interface written in Python. 
+ * [tex4ebook](https://github.com/michal-h21/tex4ebook): Convertor from LaTeX to ebook formats (epub, mobi). Using tex4ht and texlua scripts. 
